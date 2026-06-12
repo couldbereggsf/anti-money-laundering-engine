@@ -1,0 +1,16 @@
+# Compiled Java class files
+*.class
+
+# Output and build directories
+bin/
+out/
+build/
+target/
+
+# IDE specific workspace folders
+.vscode/
+.idea/
+*.iml
+
+# OS generated files
+.DS_Store
