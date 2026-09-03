@@ -1,5 +1,7 @@
 package com.reggsltd.aml;
 
+import com.reggsltd.aml.engine.AMLScanner;
+
 public class Main {
     public static void main(String[] args) {
         // Initializing a strict Java Array of objects
@@ -17,3 +19,7 @@ public class Main {
         scanner.processDailyBatch(dailyTransactions);
     }
 }
+/*
+1. Architectural Constraints and Data Ingestion
+* The Reality Check
+ */
